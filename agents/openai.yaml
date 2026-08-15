@@ -1,0 +1,6 @@
+interface:
+  display_name: "UX/UI 设计专家"
+  short_description: "设计好用易上手的界面流程与视觉规范"
+  default_prompt: "使用 $potatoDesignSkill 帮我设计这个产品的界面，先确认用户和核心任务，再输出页面清单和视觉规范。"
+policy:
+  allow_implicit_invocation: true
